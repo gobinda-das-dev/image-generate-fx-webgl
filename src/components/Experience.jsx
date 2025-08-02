@@ -9,7 +9,7 @@ const Experience = () => {
       {/* <RotatingBox /> */}
       <Image />
 
-      <OrbitControls />
+      {/* <OrbitControls /> */}
     </>
   )
 }
